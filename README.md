@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://codesandbox.io">
-    <img src="" width="100%" height="100%">
-    
+    <img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/14ab1be0-62f4-4919-a0c4-6edc9f807bff" />
+
   </a>
 </p>
 

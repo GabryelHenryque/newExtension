@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://codesandbox.io">
-    <img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/14ab1be0-62f4-4919-a0c4-6edc9f807bff" />
+  <a href="https://codesandbox.io"> 
+  <img width="499" height="628" alt="image" src="https://github.com/user-attachments/assets/3295557a-d2a9-412a-8adf-1729cc7a43cd" />
 
   </a>
 </p>
